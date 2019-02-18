@@ -3,13 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.13.0",
+    "babel-plugin-import": "^1.11.0",
+    "cheerio": "^1.0.0-rc.2",
+    "customize-cra": "^0.2.11",
+    "debounce": "^1.2.0",
+    "firebase": "^5.8.1",
     "react": "^16.7.0",
+    "react-app-rewired": "^2.0.3",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
