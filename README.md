@@ -1,4 +1,16 @@
+## How this project works
+
+This is a single page app, hosted and run with Firebase that checks for the existence of a letting agent and
+then helps you create a complaint to send about them if they are charging inappropriately.
+
+## Needs to be added:
+
+Lookup on the PRS website. There seems to be an API here: https://www.theprs.co.uk/propertyagent/getlatlong/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
